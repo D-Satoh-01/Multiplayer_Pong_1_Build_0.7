@@ -1,0 +1,11 @@
+{
+  "name": "multiplayer_pong_1",
+  "version": "1.0.0",
+  "main": "backend.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "3.1.7",
+    "socket.io": "^4.3.1"
+  }
+}
